@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>Motorcycle.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #cf8e6d;}
+.s1 { color: #bcbec4;}
+.s2 { color: #bcbec4;}
+.s3 { color: #6aab73;}
+</style>
+</head>
+<body bgcolor="#1e1f22">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+Motorcycle.java</font>
+</center></td></tr></table>
+<pre><span class="s0">public class </span><span class="s1">Motorcycle </span><span class="s0">extends </span><span class="s1">Vehicle</span><span class="s2">{</span>
+    <span class="s0">public boolean </span><span class="s1">hasSideCar</span><span class="s2">;</span>
+
+    <span class="s1">Motorcycle</span><span class="s2">(</span><span class="s0">int </span><span class="s1">registrationNumber</span><span class="s2">, </span><span class="s1">Person owner</span><span class="s2">, </span><span class="s0">boolean </span><span class="s1">hasSideCar</span><span class="s2">){</span>
+        <span class="s0">super</span><span class="s2">(</span><span class="s1">registrationNumber</span><span class="s2">,</span><span class="s1">owner</span><span class="s2">);</span>
+        <span class="s0">this</span><span class="s2">.</span><span class="s1">hasSideCar </span><span class="s2">= </span><span class="s1">hasSideCar</span><span class="s2">;</span>
+    <span class="s2">}</span>
+
+    <span class="s0">public </span><span class="s1">String toString</span><span class="s2">(){</span>
+        <span class="s0">return </span><span class="s3">&quot;Motorcycle, Owner: &quot; </span><span class="s2">+ </span><span class="s1">owner</span><span class="s2">;</span>
+    <span class="s2">}</span>
+    <span class="s1">@Override</span>
+    <span class="s0">public void </span><span class="s1">honk</span><span class="s2">(){</span>
+        <span class="s1">System</span><span class="s2">.</span><span class="s1">out</span><span class="s2">.</span><span class="s1">println</span><span class="s2">(</span><span class="s3">&quot;Vroom&quot;</span><span class="s2">);</span>
+    <span class="s2">}</span>
+
+    <span class="s1">@Override</span>
+    <span class="s0">public boolean </span><span class="s1">equals</span><span class="s2">(</span><span class="s1">Object obj</span><span class="s2">) {</span>
+        <span class="s0">if</span><span class="s2">(</span><span class="s1">obj </span><span class="s0">instanceof </span><span class="s1">Motorcycle</span><span class="s2">){</span>
+            <span class="s1">Motorcycle other </span><span class="s2">= (</span><span class="s1">Motorcycle</span><span class="s2">)</span><span class="s1">obj</span><span class="s2">;</span>
+            <span class="s0">if</span><span class="s2">(</span><span class="s0">this</span><span class="s2">.</span><span class="s1">owner</span><span class="s2">.</span><span class="s1">equals</span><span class="s2">(</span><span class="s1">other</span><span class="s2">.</span><span class="s1">owner</span><span class="s2">)) {</span>
+                <span class="s0">return true</span><span class="s2">;</span>
+            <span class="s2">}</span>
+        <span class="s2">}</span>
+        <span class="s0">return false</span><span class="s2">;</span>
+    <span class="s2">}</span>
+
+<span class="s2">}</span>
+</pre>
+</body>
+</html>
