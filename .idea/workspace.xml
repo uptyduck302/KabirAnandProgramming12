@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0318e90-4136-4cd4-8589-1fd50feb7b64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/Module 1 Assigement..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com.anand.module1_7/BigInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com.anand.module1_7/BigIntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_1/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_1/TwoDShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_2/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_2/TwoDShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_3/Rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_3/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_3/TwoDShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_4/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_4/Colour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_4/Rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_4/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module 1 Assigement/src/com/anand/module1_4/TwoDShape.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Module 1 Assigement" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2icUDxj3rCdMeiYqy8xPojyFuPO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.BigIntTest.executor": "Run",
+    "JUnit.BigIntTest.testabpositive.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/zinni/IdeaProjects/Module 1 Assigement/src/com/anand/module1_7",
+    "last_opened_file_path": "C:/Users/zinni/IdeaProjects/Module 1 Assigement/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zinni\IdeaProjects\Module 1 Assigement\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BigIntTest">
+    <configuration name="BigIntTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Module 1 Assigement." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com_anand.module1_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com_anand.module1_7" />
+      <option name="MAIN_CLASS_NAME" value="com_anand.module1_7.BigIntTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigIntTest.testabpositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Module 1 Assigement." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com_anand.module1_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com_anand.module1_7" />
+      <option name="MAIN_CLASS_NAME" value="com_anand.module1_7.BigIntTest" />
+      <option name="METHOD_NAME" value="testabpositive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BigIntTest" />
+        <item itemvalue="JUnit.BigIntTest.testabpositive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0318e90-4136-4cd4-8589-1fd50feb7b64" name="Changes" comment="" />
+      <created>1719789244571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719789244571</updated>
+      <workItem from="1719789245674" duration="7687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
