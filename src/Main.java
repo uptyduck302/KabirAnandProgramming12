@@ -15,7 +15,7 @@ public class Main {
         }
     }
     public static void main(String[] args) {
-        towers(5,1,3,2);
+        towers(9,1,3,2);
         System.out.println(count);
     }
 }
