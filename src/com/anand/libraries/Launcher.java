@@ -1,21 +1,29 @@
 package com.anand.libraries;
 
+import org.apache.commons.io.FileUtils;
 import com.drew.imaging.ImageMetadataReader;
 import com.drew.metadata.Directory;
 import com.drew.metadata.Metadata;
 import com.drew.metadata.Tag;
-
 import java.io.File;
+import java.io.IOException;
 
 public class Launcher {
     public static void main(String[] args) {
-        // Update the path to your image file
-        File file = new File("resources/test.jpg");
+        String path = System.getProperty("user.dir");
+        System.out.println(path);
+        File src = new File("LA.jpg");
+        System.out.println(src.getAbsolutePath());
+        File out = new File("copied.jpg");
 
         try {
-            Metadata metadata = ImageMetadataReader.readMetadata(file);
+            FileUtils.copyFile(src, dest);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
-            // Iterate over directories and tags
+        try {
+            Metadata metadata = ImageMetadataReader.readMetadata(src);
             for (Directory directory : metadata.getDirectories()) {
                 for (Tag tag : directory.getTags()) {
                     System.out.println(tag);

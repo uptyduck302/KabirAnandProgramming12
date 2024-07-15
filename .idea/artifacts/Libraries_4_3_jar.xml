@@ -2,7 +2,7 @@
   <artifact type="jar" name="Libraries 4.2:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/Libraries_4_2_jar</output-path>
     <root id="archive" name="Libraries 4.2.jar">
-      <element id="module-output" name="Libraries 4.2" />
+      <element id="module-output" name="Files 4.3" />
       <element id="extracted-dir" path="$PROJECT_DIR$/libraries/javafx-sdk-22.0.1/lib/javafx-swt.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/libraries/javafx-sdk-22.0.1/lib/javafx.media.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/libraries/javafx-sdk-22.0.1/lib/javafx.controls.jar" path-in-jar="/" />
