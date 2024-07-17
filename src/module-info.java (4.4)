@@ -1,0 +1,6 @@
+module com.anand.databases {
+    requires java.sql;
+    requires derby;
+
+    opens com.anand.databases;
+}
