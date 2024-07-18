@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.Label?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.anand.gui.NewWindow">
+    <Label text="New Window" layoutX="100" layoutY="100"/>
+</AnchorPane>
