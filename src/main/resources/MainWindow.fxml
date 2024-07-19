@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.anand.gui.MainWindow">
+    <Button text="Open Alert" layoutX="100" layoutY="100" onAction="#opensWindow"/>
+    <Button text="Load New Window" layoutX="100" layoutY="150" onAction="#loadNewWindow"/>
+</AnchorPane>
