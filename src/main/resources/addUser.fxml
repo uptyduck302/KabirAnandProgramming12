@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" spacing="20" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.anand.gui.AddUserController">
+    <TextField fx:id="newUsernameField" promptText="New Username"/>
+    <PasswordField fx:id="newPasswordField" promptText="New Password"/>
+    <Button text="Register" onAction="#handleRegister"/>
+    <Button text="Back to Login" onAction="#backToLogin"/>
+</VBox>

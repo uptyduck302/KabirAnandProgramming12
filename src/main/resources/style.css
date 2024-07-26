@@ -1,0 +1,27 @@
+.root {
+    -fx-background-color: #f0f0f0;
+}
+
+.button {
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.text-field, .password-field {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+    -fx-background-color: #d3d3d3;
+    -fx-border-color: #a9a9a9;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.label {
+    -fx-font-size: 18px;
+    -fx-text-fill: #2f4f4f;
+    -fx-font-weight: bold;
+}
